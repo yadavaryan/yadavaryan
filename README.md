@@ -11,7 +11,7 @@
 ### 🧭 About Me
 
 - 🚀 **CTO at [Optbit Technologies](https://optbit.in)** — delivering custom web/mobile development, workflow automation, agentic AI integrations, and DevOps-as-a-service
-- 🔧 Background spans **MEAN stack development**, **IIoT & time-series data platforms**, and **real-time/event-driven systems**
+- 🔧 Background spans **MEAN/MERN stack development**, **IIoT & time-series data platforms**, and **real-time/event-driven systems**
 - 🏗️ Experienced in taking products from unstable → production-ready: re-architecting core logic, optimizing databases, and hardening infrastructure
 - 🤖 Actively building with **agentic AI**, automation pipelines (n8n), and live/real-time bot systems
 - 🌱 Currently exploring deeper Kubernetes orchestration and scalable real-time architectures
@@ -75,14 +75,6 @@
 | [n8n-stock-earnings-rag](https://github.com/yadavaryan/n8n-stock-earnings-rag) | RAG pipeline for stock earnings analysis via n8n | n8n |
 | [github-issue-analyzer](https://github.com/yadavaryan/github-issue-analyzer) | Automated analysis and triage of GitHub issues | Python |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavaryan&show_icons=true&theme=default&hide_title=false" alt="Aryan's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavaryan&layout=compact" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
